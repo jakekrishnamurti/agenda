@@ -1,6 +1,8 @@
 # agenda
 A daily agenda app using React Native.
 
+# Development Progress
+
 ## **Current/Planned Features**
 
 * 7 day agenda
