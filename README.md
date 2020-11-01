@@ -1,6 +1,8 @@
 # agenda
 A daily agenda app using React Native.
 
+![](agenda.gif)
+
 # Development Progress
 
 ## **Current/Planned Features**
