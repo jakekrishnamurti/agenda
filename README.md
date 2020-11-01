@@ -38,3 +38,8 @@ A daily agenda app using React Native.
 * There are a few sections of code that I believe can be rewritten to use fewer lines or that can simply be done better. 
 * I've learnt more JavaScript since starting this project and now feel more capable of improving these sections.
 * The code is currently all in one file - ideally it should be split up into multiple classes to make things cleaner.
+
+## **Attributions**
+
+Edit icon made by [kiranshastry](https://www.flaticon.com/authors/kiranshastry) from [www.flaticon.com](www.flaticon.com)
+Delete icon made by [bqlqn](https://www.flaticon.com/authors/bqlqn) from [www.flaticon.com](www.flaticon.com)
