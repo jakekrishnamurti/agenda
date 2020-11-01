@@ -1,7 +1,7 @@
 # agenda
 A daily agenda app using React Native.
 
-![](agenda.gif)
+<img src="agenda.gif" width="360"/>
 
 # Development Progress
 
