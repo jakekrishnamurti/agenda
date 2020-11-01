@@ -36,4 +36,4 @@ A daily agenda app using React Native.
 ## **Code Clean-up**
 
 * There are a few sections of code that I believe can be rewritten to use fewer lines or that can simply be done better. 
-* I've learnt more JavaScript since starting this project and now feel more capable about improving these sections.
+* I've learnt more JavaScript since starting this project and now feel more capable of improving these sections.
