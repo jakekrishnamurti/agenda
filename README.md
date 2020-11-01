@@ -27,3 +27,9 @@ A daily agenda app using React Native.
 ## **Known Issues**
 
 * Small graphical error in top left/right corner when scrolling between dates, this is caused by the drop shadow effect on the View that contains the day of the week - possibly an issue only on Android due to the use of the elevation property
+
+
+## **Code Clean-up**
+
+* There are a few sections of code that I believe can be rewritten to use fewer lines or that can simply be done better. 
+* I've learnt more JavaScript since starting this project and now feel more capable about improving these sections.
